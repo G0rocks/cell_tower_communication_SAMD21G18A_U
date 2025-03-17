@@ -139,3 +139,12 @@ delay/test/README
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+lib/samd21g18a/samd21g18a_blinker.h
+lib/samd21g18a/samd21g18a_includes.h
+lib/samd21g18a/samd21g18a_registers.c
+lib/samd21g18a/samd21g18a_pointers.h
+lib/samd21g18a/samd21g18a_serial.h
+lib/samd21g18a/samd21g18a_registers.h
+lib/delay/src/delay.c
+lib/delay/src/delay.h
+lib/samd21g18a/Doxyfile
